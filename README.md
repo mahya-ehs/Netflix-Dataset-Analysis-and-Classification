@@ -2,7 +2,7 @@
 This project analyzes a dataset related to Netflix, one of the most popular media and video streaming platforms. The Netflix dataset contains information about over 8000 movies and TV shows, including details such as actors, directors, ratings, release years, genres and more.
 
 ## Overview
-My project is divided into three phases:
+Our project is divided into three phases:
 
 1. **Statistical Comparison of Directors:** In the first phase, the project conducts a statistical comparison between the number of films directed by each director and the average number of films by directors.
 
@@ -43,4 +43,4 @@ classification of series and movies based on genres.
 ![](./phase3.png)
 
 ## Contact
-Created by [mahya.ehsanimehr@gmail.com](mailto:mahya.ehsanimehr@gmail.com) - feel free to contact me!
+Created by [mahya.ehsanimehr@gmail.com](mailto:mahya.ehsanimehr@gmail.com) and [ @gmail.com](mailto: @gmail.com)
