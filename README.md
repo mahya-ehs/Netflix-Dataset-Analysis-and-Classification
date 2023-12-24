@@ -43,4 +43,4 @@ classification of series and movies based on genres.
 ![](./phase3.png)
 
 ## Contact
-Created by [mahya.ehsanimehr@gmail.com](mailto:mahya.ehsanimehr@gmail.com) and [ @gmail.com](mailto: @gmail.com)
+Created by [mahya.ehsanimehr@gmail.com](mailto:mahya.ehsanimehr@gmail.com) and [neg.jaafari@gmail.com](mailto: neg.jaafari@gmail.com)
